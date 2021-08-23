@@ -1,6 +1,6 @@
 pip==20.1.1
 notebook==6.0.3
-jupyterlab==2.1.4
+jupyterlab==2.2.10
 kubernetes==11.0.0
 openshift==0.11.1
 humanize==2.4.0
